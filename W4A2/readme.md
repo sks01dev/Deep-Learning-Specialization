@@ -19,8 +19,8 @@ To run this notebook, you need a Python environment with the standard scientific
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sks01dev/data-science-lab/](https://github.com/sks01dev/data-science-lab/)
-    cd data-science-lab
+    git clone https://github.com/sks01dev/Deep-Learning-Specialization
+    cd Deep-Learning-Specialization
     ```
 
 2.  **Install dependencies:**
