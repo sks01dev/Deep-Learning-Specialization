@@ -59,7 +59,7 @@ Execute the Jupyter Notebook cell-by-cell.
 ## 🧠 Key Learnings
 
 1.  **The Depth Advantage:** Successfully proved that the 4-layer DNN achieved significantly better performance (80% accuracy) than both the Logistic Regression (70%) and the 2-layer NN (72%), confirming the power of deep architectures to extract hierarchical features.
-2.  **Full Pipeline Integration:** Mastered the Deep Learning workflow by integrating complex, low-level components (`initialize_parameters_deep`, `L_model_forward`, `L_model_backward`) into a single, cohesive training loop.
+2.  **Full Pipeline Integration:** Understood the Deep Learning workflow by integrating complex, low-level components (`initialize_parameters_deep`, `L_model_forward`, `L_model_backward`) into a single, cohesive training loop.
 3.  **Overfitting Awareness:** Observed the high training accuracy (98.5%) on the L-Layer model compared to the test accuracy (80%), highlighting the challenge of **overfitting** and suggesting the future need for regularization and early stopping.
 
 ---
